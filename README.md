@@ -4,7 +4,7 @@
 
 ### Clone the repository 
 ```
-git clone https://github.com/Chandolkar001/boilerplate.git
+git clone https://github.com/bmc2203/boilerplate.git
 ```
 
 ### Steps if you have linux-debian based terminal:
